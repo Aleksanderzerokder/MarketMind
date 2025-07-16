@@ -1,0 +1,17 @@
+# Файл: requirements.txt
+
+# Веб-фреймворк и сервер
+fastapi
+uvicorn[standard]
+
+# Валидация данных и конфигурация
+pydantic
+python-dotenv
+
+# HTTP-клиент для API маркетплейсов
+requests
+
+# LLM-клиент
+gigachat
+
+redis
